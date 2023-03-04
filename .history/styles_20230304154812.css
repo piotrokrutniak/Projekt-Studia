@@ -42,7 +42,6 @@ body{
 a{
     text-decoration: none;
     color:rgba(245, 242, 238);
-    cursor: pointer;
 }
 
 .navigation{
@@ -83,7 +82,6 @@ a{
     padding-right: 20px;
     font-weight: 900;
     font-size: 30px;
-    cursor: pointer;
 }
 
 .logo-contents{
@@ -321,12 +319,9 @@ a{
     background-color: rgb(16, 223, 223);
     border: 1px solid rgba(255, 255, 255, 0.418);
     border-radius: 15px;
-    height: 60px;
+    height: 50px;
     transition: 0.13s;
     transition-timing-function: ease-in;
-    font-weight: 600;
-    cursor: pointer;
-    text-transform: uppercase;
 }
 
 .post-button:active{
